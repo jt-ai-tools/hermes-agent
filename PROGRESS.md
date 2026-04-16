@@ -287,9 +287,6 @@
 缺少翻譯: ./skills/diagramming/DESCRIPTION.md -> 預期 ./skills/diagramming/DESCRIPTION_zh_TW.md
 缺少翻譯: ./skills/social-media/DESCRIPTION.md -> 預期 ./skills/social-media/DESCRIPTION_zh_TW.md
 缺少翻譯: ./skills/social-media/xitter/SKILL.md -> 預期 ./skills/social-media/xitter/SKILL_zh_TW.md
-缺少翻譯: ./RELEASE_v0.5.0.md -> 預期 ./RELEASE_v0.5.0_zh_TW.md
-缺少翻譯: ./RELEASE_v0.7.0.md -> 預期 ./RELEASE_v0.7.0_zh_TW.md
-缺少翻譯: ./RELEASE_v0.6.0.md -> 預期 ./RELEASE_v0.6.0_zh_TW.md
 缺少翻譯: ./plugins/memory/hindsight/README.md -> 預期 ./plugins/memory/hindsight/README_zh_TW.md
 缺少翻譯: ./plugins/memory/honcho/README.md -> 預期 ./plugins/memory/honcho/README_zh_TW.md
 缺少翻譯: ./plugins/memory/byterover/README.md -> 預期 ./plugins/memory/byterover/README_zh_TW.md
@@ -298,8 +295,6 @@
 缺少翻譯: ./plugins/memory/retaindb/README.md -> 預期 ./plugins/memory/retaindb/README_zh_TW.md
 缺少翻譯: ./plugins/memory/mem0/README.md -> 預期 ./plugins/memory/mem0/README_zh_TW.md
 缺少翻譯: ./plugins/memory/holographic/README.md -> 預期 ./plugins/memory/holographic/README_zh_TW.md
-缺少翻譯: ./RELEASE_v0.4.0.md -> 預期 ./RELEASE_v0.4.0_zh_TW.md
-缺少翻譯: ./RELEASE_v0.3.0.md -> 預期 ./RELEASE_v0.3.0_zh_TW.md
 缺少翻譯: ./web/README.md -> 預期 ./web/README_zh_TW.md
 缺少翻譯: ./optional-skills/creative/blender-mcp/SKILL.md -> 預期 ./optional-skills/creative/blender-mcp/SKILL_zh_TW.md
 缺少翻譯: ./optional-skills/creative/meme-generation/SKILL.md -> 預期 ./optional-skills/creative/meme-generation/SKILL_zh_TW.md
@@ -417,7 +412,6 @@
 缺少翻譯: ./optional-skills/health/neuroskill-bci/SKILL.md -> 預期 ./optional-skills/health/neuroskill-bci/SKILL_zh_TW.md
 缺少翻譯: ./optional-skills/health/fitness-nutrition/references/FORMULAS.md -> 預期 ./optional-skills/health/fitness-nutrition/references/FORMULAS_zh_TW.md
 缺少翻譯: ./optional-skills/health/fitness-nutrition/SKILL.md -> 預期 ./optional-skills/health/fitness-nutrition/SKILL_zh_TW.md
-缺少翻譯: ./RELEASE_v0.8.0.md -> 預期 ./RELEASE_v0.8.0_zh_TW.md
 缺少翻譯: ./packaging/homebrew/README.md -> 預期 ./packaging/homebrew/README_zh_TW.md
 缺少翻譯: ./hermes-already-has-routines.md -> 預期 ./hermes-already-has-routines_zh_TW.md
 缺少翻譯: ./docker/SOUL.md -> 預期 ./docker/SOUL_zh_TW.md
@@ -430,7 +424,6 @@
 缺少翻譯: ./environments/benchmarks/yc_bench/README.md -> 預期 ./environments/benchmarks/yc_bench/README_zh_TW.md
 缺少翻譯: ./environments/README.md -> 預期 ./environments/README_zh_TW.md
 缺少翻譯: ./plans/gemini-oauth-provider.md -> 預期 ./plans/gemini-oauth-provider_zh_TW.md
-缺少翻譯: ./RELEASE_v0.2.0.md -> 預期 ./RELEASE_v0.2.0_zh_TW.md
 缺少翻譯: ./website/README.md -> 預期 ./website/README_zh_TW.md
 缺少翻譯: ./website/docs/guides/automate-with-cron.md -> 預期 ./website/docs/guides/automate-with-cron_zh_TW.md
 缺少翻譯: ./website/docs/guides/aws-bedrock.md -> 預期 ./website/docs/guides/aws-bedrock_zh_TW.md
@@ -549,5 +542,5 @@
 缺少翻譯: ./gateway/platforms/ADDING_A_PLATFORM.md -> 預期 ./gateway/platforms/ADDING_A_PLATFORM_zh_TW.md
 -----------------------------------
 總計需要翻譯檔案: 553
-目前缺少翻譯檔案: 548
-目前完成進度: 5/553 (0.90%)
+目前缺少翻譯檔案: 541
+目前完成進度: 12/553 (2.17%)
